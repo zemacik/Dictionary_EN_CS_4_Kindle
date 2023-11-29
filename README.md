@@ -1,6 +1,4 @@
-# GNU FDL English-Czech Dictionary
--------------------------------------------
-GDFL English - Czech Dictionary for Kindle (ePub)
+# GNU FDL English-Czech Dictionary for Kindle (ePub)
 
 Data were downloaded from following website:
 <https://www.svobodneslovniky.cz/>
